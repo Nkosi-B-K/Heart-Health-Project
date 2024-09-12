@@ -1,0 +1,12 @@
+age_group,gender,Average_Max_HR
+29,Male,202.00
+30-39,Female,175.00
+30-39,Male,166.44
+40-49,Female,158.32
+40-49,Male,159.64
+50-59,Female,150.88
+50-59,Male,146.96
+60-69,Female,147.12
+60-69,Male,137.81
+70-77,Female,130.80
+70-77,Male,130.20
